@@ -180,3 +180,32 @@ text-align: center;
  color: #474747;
  
 }
+
+ /* what i do  */
+
+ #wid-dis{
+
+  padding: 30px 150px;
+  
+ }
+
+/* skill related style  */
+
+.skills-container{
+
+
+display: flex;
+gap: 35px;
+align-items:center;
+
+}
+
+.skill{
+ padding: 20px;
+ border-radius: 5px;
+ box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.562) ;
+}
+.section-title{
+ text-align: center;
+ text-transform: capitalize;
+}
