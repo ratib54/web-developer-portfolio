@@ -208,4 +208,70 @@ align-items:center;
 .section-title{
  text-align: center;
  text-transform: capitalize;
+ font-size: 35px;
+}
+
+.rasume{
+
+ display: flex;
+ gap: 50px;
+
+}
+
+.first-text>h3{
+ font-size: 25px;
+ font-weight: 700;
+ color: #474747;
+}
+
+.first-text>h4{
+
+ font-size: 20px;
+ font-weight: 600;
+ color: #757575;
+}
+.first-text>p{
+
+ font-size: 16px;
+ font-weight: 400;
+ color: #757575;
+}
+.h1-resume{
+
+ font-size: 30px;
+ font-weight: 700;
+ color: #474747;
+}
+
+.resume-sec{
+ margin-top: 130px;
+} 
+
+.social-icon{
+
+ height:24px ;
+ width:24px ;
+ display: flex;
+}
+
+footer {
+
+ display: flex;
+ background-color: #FFF8F3;
+ width: 1600px;
+ height: 700px;
+ margin-top: 131px ;
+ justify-content: space-between;
+}
+
+.foot-content>p{
+
+ font-size: 16px;
+ font-weight: 700;
+}
+
+.input-area{
+
+ display: block;
+ margin-top: 10px;
 }
