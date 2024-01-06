@@ -118,6 +118,65 @@ margin-top:30px;
  margin: 4px;
 }
 
+/* main part */
 
+/* styling about section */
 
+.about{
+ 
+ margin: 130px 0;
+ background-color: #FFF8F3;
+ height:550px ;
+ padding: 131px;
+}
 
+.about-head{
+ 
+ font-size: 37px;
+ font-weight: 700;
+ text-align: center;
+ 
+}
+
+.about-desc{
+
+ font-size: 18px;
+ font-weight: 400;
+ text-align: center;
+ margin-top: 90px;
+}
+/* max width set kore ditee pari */
+
+main{
+ max-width: 1140px;
+ margin: 0 auto;
+}
+
+.about-info-container{
+
+ display: flex;
+ text-align: center;
+ margin-top: 120px;
+ 
+}
+
+.about-info-container > .about-info{
+
+justify-content: space-between;
+margin: 30px;
+text-align: center;
+}
+
+.info-title{
+ text-align: center;
+ color: #757575;
+ font-size: 20px;
+ font-weight: 400;
+}
+.info-description{
+
+ font-size: 20px;
+ font-weight: 700;
+ color: #474747;
+ 
+}
